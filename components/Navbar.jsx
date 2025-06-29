@@ -1,0 +1,1 @@
+export default function Navbar() { return <nav className='bg-blue-700 text-white p-4'>SSAR-Hub Navigation</nav>; }

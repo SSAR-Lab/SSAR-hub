@@ -1,0 +1,1 @@
+export default function Innovation() { return <div className='p-8'>Innovation Page</div>; }
